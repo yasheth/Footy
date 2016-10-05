@@ -1,4 +1,37 @@
 <resources>
     <string name="app_name">Footy</string>
     <string name="team_prompt">Select team</string>
+    <string name="t11">->Since the inception of the Premier League, Manchester United have accumulated 1503 points from wins - winning 86 more games than nearest rivals Arsenal.</string>
+    <string name="t12">->The famous five of Manchester Uniteds youth academy - Ryan Giggs, Paul Scholes, David Beckham, Gary Neville and Nicky Butt - appeared 3038 times in total for the Red Devils.</string>
+    <string name="t13">->Sir Matt Busby only bought 16 players in his 13 years in charge of United before Munich. 4 of them were Goal Keepers. He didnt buy anyone in the period between 1953-57.</string>
+    <string name="t14">->Manchester City allowed United to play their first-team games at Maine Road following bomb damage to Old Trafford during the second world war.</string>
+
+    <string name="t21">->Arsenal are nicknamed The Gunners because they were formed by a group of cannon makers at the Woolwich Arsenal in 1886.</string>
+    <string name="t22">->Arsenal is the only league team still in existence that has never been relegated.Arsenal has been in top flight English football since 1919-1920.</string>
+    <string name="t23">->The Premier League commissioned a special gold version of the Premier League trophy to commemorate Arsenals achievement.</string>
+    <string name="t24">->Arsene Wenger became the first foreign manager to lift the Premiership title, when Arsenal won it in the season of 1997-98.</string>
+
+    <string name="t31">->Real Madrid is one of the founding sides of the Royal Spanish Football Federation which came into existence on January 4th</string>
+    <string name="t32">->Did you know that the Club’s name ‘Real Madrid’ Means ‘Royal Madrid’ in Spanish? The Madrid club’s name was changed to Real Madrid in 1920 when King Alfonso the thirteenth granted Royalty status to the club.</string>
+    <string name="t33">->Real Madrid is the only club ever to win La Liga five times in succession. It accomplished this feat on two different occasions, the first between 1961 and 1965, and the second between 1986 and 1990.</string>
+    <string name="t34">->Even though Real Madrid has won so many La Liga titles, they have never won the treble. They have achieved the double that is La Liga plus Copa Del Rey or La Liga plus the European Cup on six occasions but never a treble.</string>
+
+    <string name="t41">->On October 22, 1899, Hans Kamper placed an advertisement in a local newspaper claiming his wish to form a football club; a few positive
+answers led to a meeting at the Gimnasio Solé on November 29th. Eleven players attended, led by Joan Gamper. FC Barcelona was created.
+</string>
+    <string name="t42">->The club has become a symbol of Catalan culture and Catalanism through the years, with the motto "Més que un club" (More than a club).</string>
+    <string name="t43">->The club has long been controversial due to its revolutionary spirit during both Primo de Rivera´s and Francisco Franco´s dictatorships. The symbols born by the club as well as its identity clearly show the catalán nationalism.</string>
+    <string name="t44">->Unlike many other football clubs, the supporters own and operate Barcelona. Barcelona is the most successful club in Spain, in terms of overall official titles won (82). Barcelona was also ranked first in the “All-Time Club World Ranking” by IFFHS, on 31 December 2009, and was placed on top of the 2012/13 UEFA club rankings. The club is one of the most supported teams in the world, and has the largest fan base among all sports teams on all major social networks.
+    </string>
+
+    <string name="t51">->Bayern is the most successful football team in German football history. They have won a total of 25 league titles, 15+ cups and is the only German club to have won all of the European Cup, Cup Winners Cup and UEFA Cup.</string>
+    <string name="t52">->There are only seven European teams to have achieved a treble and Bayern Munich is the only German team on that list, others are FC Barcelona (Barça), Celtic, Ajax, PSV Eindhoven, Manchester United and Inter Milan.</string>
+    <string name="t53">->A Bayern Munich Football player has been nominated for the prestigious Ballon d’Or 15 times, but, unfortunately, a Bayern player has won it only five times that are twice by Franz Beckenbauer, twice by Karl-Heinz Rummenigge and once by Gerd Müller.</string>
+    <string name="t54">->There is a total of four coaches who have coached both Spain’s FC Barcelona team and Germany’s Bayern Munich, these four are Jack Domby, Udo Lattek, Louis van Gaal, and Bayern Munich`s current coach Pep Guardiola.</string>
+
+    <string name="t61">->Chelsea hold the record for the highest ever points total for a league season (95) and the fewest goals conceded during a league season (15) - under the management of Jose Mourhino in 2004/05.</string>
+    <string name="t62">->Chelsea (jointly with Arsenal) were the first clubs to play with numbered shirts - on 25 August 1928 in their match against Welsh side Swansea City.</string>
+    <string name="t63">->Chelsea became the first British side to field an entirely foreign starting line-up in a Premier League match - against Southampton in December 1999.</string>
+    <string name="t64">->The clubs 21–0 victory over Jeunesse Hautcharage in the UEFA Cup Winners’ Cup in 1971 remains a record in European competition.</string>
+
 </resources>

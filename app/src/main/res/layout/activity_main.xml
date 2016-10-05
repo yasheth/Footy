@@ -14,6 +14,16 @@
     android:orientation="vertical"
     tools:context="yasheth.footy.MainActivity">
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Footy Quiz"
+        android:id="@+id/quiz"
+        android:clickable="true"
+        android:onClick="onClick"
+        android:layout_gravity="center"/>
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -44,6 +54,12 @@
         android:layout_gravity="center"
         android:fitsSystemWindows="true"
         android:scaleType="fitXY"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:text="FORMATION"
+        android:gravity="center"/>
 
     <ImageView
         android:layout_width="350dp"
@@ -53,5 +69,36 @@
         android:layout_gravity="center"
         android:fitsSystemWindows="true"
         android:scaleType="fitXY"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:text="FACTS"
+        android:gravity="center"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/teamtext1"
+        android:textSize="18sp"
+        android:layout_marginTop="5dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/teamtext2"
+        android:layout_marginTop="5dp"
+        android:textSize="18sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/teamtext3"
+        android:textSize="18sp"
+        android:layout_marginTop="5dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/teamtext4"
+        android:textSize="18sp"
+        android:layout_marginTop="5dp" />
+
 </LinearLayout>
 </ScrollView>
