@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Footy</string>
+    <string name="team_prompt">Select team</string>
+</resources>
